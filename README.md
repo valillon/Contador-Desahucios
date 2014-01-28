@@ -15,6 +15,6 @@ Datos estimados durante el segundo trimestre de 2012 en: <br />
 http://www.publico.es/espana/439864/el-numero-de-desahucios-bate-todos-los-records-46-559-en-tres-meses-de-2012<br />
 
 ---
-Versiones en Javascript y Java-Processing.
+Versiones en Javascript y Java-Processing (requiers processing.js).
  
 Rafael Redondo Tejedor CC-BY-NC-SA (2013)
